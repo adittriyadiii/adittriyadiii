@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Adit Triyadi 👋</h1>
-<p align="center">QA Engineer | Automation Enthusiast | 6+ Years Experience</p>
+<!-- <h1 align="center">Hi, I'm Adit Triyadi 👋</h1>
+<p align="center">QA Engineer | Automation Enthusiast | 6+ Years Experience</p> -->
 
 
 ![Adit](img/aa.png)
