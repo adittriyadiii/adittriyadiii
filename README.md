@@ -9,6 +9,8 @@ Detail oriented and analytical QA Engineer with 6+ years of experience in both m
 
 Successfully contributed to multiple high-quality product releases by ensuring strong test coverage and collaborating closely with cross-functional teams including developers, product managers, and designers.
 
+Known for strong communication skills, collaborative mindset, and a keen attention to detail. Able to approach problems analytically and adapt quickly to new tools and workflows as a fast learner.
+
 ### 🥇 Programming Skills
 ##### Proficient In:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
