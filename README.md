@@ -3,8 +3,7 @@
 
 
 ![Adit](img/aa.png)
-## 👨‍💻 About Me
-
+### 👨‍💻 About Me
 Detail oriented and analytical QA Engineer with 6+ years of experience in both manual and automation testing for mobile and web applications. Skilled in designing test cases, managing test execution, and building automation scripts to streamline regression testing and reduce repetitive effort.
 
 Successfully contributed to multiple high-quality product releases by ensuring strong test coverage and collaborating closely with cross-functional teams including developers, product managers, and designers.
